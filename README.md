@@ -116,7 +116,7 @@ As shown above, the number of images of train and valid datasets is large enough
 <br><br> 
 
 <h4>2.2 Tiled Earth-Surface-Water Derivation</h4>
-The folder structure of the original 
+The folder structure of the original <b>dset-s2</b> is the following.
 <pre>
 ./dset-s2
 ├─tra_scene
