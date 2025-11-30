@@ -37,7 +37,7 @@ with the original resolution.
 <b>Actual Image Segmentation for the original Earth-Surface-Water Images of 1.5K to 2.5K pixels</b><br>
 As shown below, the tiled_inferred masks predicted by our segmentation model trained on the 
 Tiled dataset appear similar to the ground truth masks, but they lack precision in certain areas.<br>
-
+However, in the second case, the groud truth (mask) seems to be slightly inappropriate.<br> 
 <table>
 <tr>
 <th>Input: image</th>
